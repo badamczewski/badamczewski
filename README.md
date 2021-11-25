@@ -1,4 +1,8 @@
-### Hi there 👋
+### I make things go fast 🚀
+
+Hello, I make infographics, test compilers, and make things go fast.
+
+https://leveluppp.ghost.io/infographics/
 
 <!--
 **badamczewski/badamczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
