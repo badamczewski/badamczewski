@@ -2,7 +2,9 @@
 
 Hello, I make infographics, test compilers, and make things go fast.
 
-https://leveluppp.ghost.io/infographics/
+- ⚡ Infographics: https://leveluppp.ghost.io/infographics/
+- ⚡ Blog: https://leveluppp.ghost.io/
+- ⚡ I occasionally do Youtube: https://www.youtube.com/c/LevelUppp/videos
 
 <!--
 **badamczewski/badamczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
